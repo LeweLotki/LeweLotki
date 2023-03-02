@@ -1,6 +1,5 @@
 Mechatronic student, data science pasionate
 <br><br>
-
 Check out my repository: <br>
 https://github.com/LeweLotki/RL_5DOF <br>
 https://github.com/LeweLotki/depression_detection_deployment <br>
